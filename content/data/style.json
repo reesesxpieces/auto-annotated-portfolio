@@ -10,7 +10,7 @@
     "onSecondary": "#0B0C0D",
     "complementary": "#565862",
     "onComplementary": "#FBFFF2",
-    "fontBody": "\"DM Mono\", monospace",
+    "fontBody": "\"Azeret Mono\", monospace",
     "headingWeight": "500",
     "headingCase": "none"
 }
